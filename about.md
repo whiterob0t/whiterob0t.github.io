@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Dorks, findings, takedowns & fucking with lammers.
